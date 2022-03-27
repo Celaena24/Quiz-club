@@ -35,7 +35,7 @@
     width: fit-content;
 }
 
-@media(max-width: 720px){
+@media(max-width: 960px){
     .text-box-ready{
         width: 80%;
         margin-top: 0;

@@ -34,7 +34,7 @@
     padding: 0.6em 1.3em;
     width: fit-content;
 }
-@media(max-width: 720px){
+@media(max-width: 960px){
     .text-box-qs{
         width: 80%;
         margin-top: 0;

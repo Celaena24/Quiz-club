@@ -30,7 +30,7 @@ ul{
     font-size: 4vw;
 }
 
-@media(max-width: 720px){
+@media(max-width: 960px){
     .content-footer{
         display: flex;
         flex-direction: column;
