@@ -1,0 +1,39 @@
+.slide.whoRV {
+    background: linear-gradient(116.65deg, #1D7BEF 10.58%, #2EBBF0 54.27%, #1D7BEF 89.72%);
+}
+.whoRV{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-box{
+    margin-top: 5vh;
+    width: 75vw;
+}
+.whoRV-heading {
+    padding: 2rem;
+    text-align: center;
+    font-size: 6.5vw;
+    font-weight: 600;
+}
+.whoRV-text {
+    text-align: center;
+    font-weight: 500;
+    font-size: 2.5vw;
+    line-height: 1.2em;
+}
+@media(max-width: 720px){
+    .text-box{
+        width: 80%;
+        margin-top: 0;
+    }
+    .whoRV-heading{
+        font-size: 9vw;
+    }
+    .whoRV-text{
+        font-size: 4.5vw;
+    }
+    .main-title{
+        font-size: 9vw;
+    }
+}
